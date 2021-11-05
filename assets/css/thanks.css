@@ -1,0 +1,23 @@
+
+body {
+	width: 100%;
+	dysplay: flex;
+}
+
+h1, h2 {
+	align-content: center;
+	text-align: center;
+}
+
+.thanks {
+	
+}
+
+.owl{
+	margin: auto;
+	display: flex;
+}
+.owl img {
+	width: 40%;
+	margin: auto;
+}
